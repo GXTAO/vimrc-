@@ -3,11 +3,11 @@
 # vim配置
 # vim+ PowerLine NERDtree
 #
-# *PowerLine* #
-# PowerLine是一个增强的vim状态栏插件，
-# 当Vim处于NORMAL、INSERT、BLOCK等状态时，状态栏会呈现不同的颜色，
-# 同时状态栏还会显示当前编辑文件的格式（uft-8等）、文件类型（java、xml等）和光标位置等。
-# 
+# *PowerLine* 
+**PowerLine是一个增强的vim状态栏插件，
+当Vim处于NORMAL、INSERT、BLOCK等状态时，状态栏会呈现不同的颜色，
+同时状态栏还会显示当前编辑文件的格式（uft-8等）、文件类型（java、xml等）和光标位置等。
+**
 # **NERDtree**
  vim树形目录插件
 # 使用方法
